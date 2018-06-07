@@ -30,5 +30,6 @@ And Open *fend-project-memory-game* in any editor.
 
 ## Usage
 Tring open sorce code of project and reads commends.
-*The game work as*
-The player tring to match each pair togather till matching all square then show the stars and how much moves card and time took in the game.
+
+*Remember* there is Bootstrap and google font to use all feature of them you should  use supports the latest, stable releases of all major browsers and platforms. On Windows, and support Internet Explorer 10-11 / Microsoft Edge.
+There are [Bootstrap]() and [GoogleF Font](https://fonts.google.com/)
