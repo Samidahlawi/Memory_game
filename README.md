@@ -31,5 +31,5 @@ And Open *fend-project-memory-game* in any editor.
 ## Usage
 Tring open sorce code of project and reads commends.
 
-**Remember** there is Bootstrap and google font to use all feature of them you should  use supports the latest, stable releases of all major browsers and platforms. On Windows, and support Internet Explorer 10-11 / Microsoft Edge.
+**Remember** there are Bootstrap and google font to use all feature of them you should  use supports the latest, stable releases of all major browsers and platforms. On Windows, and support Internet Explorer 10-11 / Microsoft Edge.
 There are [Bootstrap]() and [GoogleF Font](https://fonts.google.com/)
