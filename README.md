@@ -5,9 +5,10 @@ The Memory game project allows you to understanding how Memory game work and inc
 ## Table of Contents
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* [Installation] (#Installation)
+* [Installation](#installation)
+* [Usage](#usage)
 ## Instructions
-
+å
 The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
 
 To get started, open `js/app.js` and start building out the app's functionality
